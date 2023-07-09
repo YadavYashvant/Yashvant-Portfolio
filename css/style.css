@@ -1,17 +1,4 @@
-/*
-0 - 600px:      Phone
-600 - 900px:    Tablet portrait
-900 - 1200px:   Tablet landscape
-[1200 - 1800] is where our normal styles apply
-1800px + :      Big desktop
-$breakpoint arguement choices:
-- phone
-- tab-port
-- tab-land
-- big-desktop
 
-Inside media queries 1em is always 16px i.e 1em = 16px at every screen size only inside media queries
-*/
 *,
 *::after,
 *::before {
@@ -276,8 +263,8 @@ textarea {
         margin-bottom: 4rem; }
 
 .projects__row {
-  display: grid;
-  grid-template-columns: 1.5fr 1fr;
+  display:grid;
+  grid-template-columns: 2fr 2fr;
   grid-gap: 5rem;
   margin-bottom: 11rem; }
   @media only screen and (max-width: 56.25em) {
