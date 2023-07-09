@@ -319,7 +319,7 @@ textarea {
           font-size: 1.7rem; } }
 
 .contact {
-  background-image: url("/assets/svg/animated-bg.svg");
+  background: url("/assets/svg/animated-bg.svg");
   background-size: cover;
   background-position: center; }
   .contact__form-container {
@@ -400,7 +400,7 @@ textarea {
 
 .project-cs-hero {
   color: #fff;
-  background-image:url("/assets/svg/animated-bg.svg");
+  background:url("/assets/svg/animated-bg.svg");
   background-size: cover;
   background-position: center;
   position: relative; }
