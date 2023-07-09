@@ -291,10 +291,9 @@ textarea {
   .projects__row:last-child {
     margin-bottom: 0; }
   .projects__row-img-cont {
-    width: 500px;
-    height: 500px;
-    margin-top: 50px;
-    display: flex;
+    margin-top: 70px;
+    height: 600px;
+    display:flex;
     justify-content: center;
     background-position: center center;
     background-repeat: no-repeat;
