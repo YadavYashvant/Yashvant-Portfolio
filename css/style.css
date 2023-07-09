@@ -318,7 +318,7 @@ textarea {
           font-size: 1.7rem; } }
 
 .contact {
-  background: url("/assets/svg/animated-bg.svg");
+  background: url("/assets/svg/contact-bg.svg");
   background-size: cover;
   background-position: center; }
   .contact__form-container {
