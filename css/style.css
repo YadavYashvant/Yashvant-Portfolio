@@ -172,7 +172,7 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background:url("/assets/svg/animated-bg.svg");
+  background:url("/assets/svg/colored-bg.svg");
   background-position: center;
   height: 100vh;
   min-height: 80rem;
@@ -399,7 +399,7 @@ textarea {
 
 .project-cs-hero {
   color: #fff;
-  background:url("/assets/svg/animated-bg.svg");
+  background:url("/assets/svg/colored-bg.svg");
   background-size: cover;
   background-position: center;
   position: relative; }
