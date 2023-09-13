@@ -134,7 +134,7 @@ textarea {
   box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.15);
   transition: transform .3s; }
   .btn:hover {
-    transform: translateY(-3px); }
+    transform: translateX(-4px); }
   .btn--bg {
     padding: 1.5rem 8rem;
     font-size: 2rem; }
@@ -142,8 +142,8 @@ textarea {
     padding: 1.5rem 5rem;
     font-size: 1.6rem; }
   .btn--theme {
-    background: #0062b9;
-    color: #fff; }
+    background: #d8b711;
+    color: #000000; }
   .btn--theme-inv {
     color: #0062b9;
     background: #fff;
