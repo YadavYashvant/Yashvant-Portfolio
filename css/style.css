@@ -284,11 +284,12 @@ textarea {
     display:flex;
     justify-content: center;
     background-position: center center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     overflow:scroll; }
   .projects__row-img {
     width: 100%;
-    height: 500px;
+    height: 600px;
+    gap: 2rem;
     display: block;
     object-fit: cover;}
   .projects__row-content {
